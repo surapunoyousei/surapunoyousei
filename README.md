@@ -5,6 +5,11 @@
 ## 言語
 HTML、CSS、C、JavaScript、Autoit
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=surapunoyousei&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surapunoyousei&layout=compact)
+
+
 ## ロケール
 日本語•英語
 
