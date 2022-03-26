@@ -3,7 +3,7 @@
 プロフィールを見にきてくれて、ありがとう！ゆっくりしていってね！ここでは自己紹介と、特技について書くよ。
 
 ## 言語
-HTML、CSS、C、JavaScript、Autoit
+何もかけません。そのため、寄稿するのもほぼ翻訳です
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=surapunoyousei&show_icons=true)
 
