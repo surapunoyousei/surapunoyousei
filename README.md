@@ -4,6 +4,8 @@
 
 ☁ I develop a web browser called "Floorp". base on Firefox.
 
+🦕 I contibute Mozilla project & Keep sustainable the web !
+
 ## Language 📚
 
 ・XUL
