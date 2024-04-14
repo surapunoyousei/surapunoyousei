@@ -1,6 +1,6 @@
 # ☺ Hi There！
 
-🏫 I am a university student in Japan
+🏫 I am a University of Toyo, Faculty of Information Networking for Innovation And Design student.
 
 ☁ I develop a web browser called "Floorp". base on Firefox.
 
