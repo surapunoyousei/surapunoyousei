@@ -1,10 +1,10 @@
-# ☺ Hi Thered！
+# ☺ Hi There!  
 
-🏫 I am a University of Toyo, Faculty of Information Networking for Innovation And Design student.
+🏫 I am a student of the faculty of Information Networking for Innovation and Design at the University of Toyo, Japan.  
 
-☁ I develop a web browser called "Floorp". base on Firefox.
+☁ I am building a web browser called "Floorp". based on Firefox.  
 
-🦕 I contibute Mozilla project & Keep sustainable the web !
+🦕 I contribute to Mozilla Projects to help keep the web sustainable!
 
 ## Language 📚
 
