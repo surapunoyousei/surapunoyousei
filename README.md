@@ -23,6 +23,6 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surapunoyousei&layout=compact&theme=tokyonight)](https://github.com/surapunoyousei/)
 
 
-## Locale
+## Location
 
-・Japan, Kanagawa Yokokama
+・Yokohama, Kanagawa, Japan
