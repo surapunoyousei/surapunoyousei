@@ -4,7 +4,7 @@
 
 ☁ I am building a web browser called "Floorp". based on Firefox.  
 
-🦕 I contribute to Mozilla Projects to help keep the web sustainable!
+🦕 I contribute to Mozilla Projects to help keep the web sustainable.
 
 ## Language 📚
 
