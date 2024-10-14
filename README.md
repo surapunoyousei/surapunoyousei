@@ -1,4 +1,4 @@
-# ☺ Hi There！
+# ☺ Hi Thered！
 
 🏫 I am a University of Toyo, Faculty of Information Networking for Innovation And Design student.
 
